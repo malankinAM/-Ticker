@@ -8,4 +8,4 @@
  
  <img src="./screencapture-127-0-0-1-5502-index-html-2023-10-23-18_57_58.png" title="css" alt="css" width="400" height="200"/>
 
-## Click ('https://malankinam.github.io/highlighted_-text_in_color/')
+## Click ('https://malankinam.github.io/-Ticker/')
